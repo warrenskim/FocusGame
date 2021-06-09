@@ -1,7 +1,7 @@
 # Author: Warren Kim
 # Date: December 3, 2020
 # Description: This file simulates the FOCUS game, which can be played between two people.
-#               Instructions and info: https://en.wikipedia.org/wiki/Focus_%28board_game%29
+#              Instructions and info: https://en.wikipedia.org/wiki/Focus_%28board_game%29
 
 class FocusGame:
     """
